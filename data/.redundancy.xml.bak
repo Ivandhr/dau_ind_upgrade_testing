@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Redundancy Settings</comment>
+<entry key="redundancy.systemstaterevision">0</entry>
+<entry key="redundancy.systemstateuid">9f3a45bb-1988-4ac0-a35c-15c1c16b77b2</entry>
+</properties>
